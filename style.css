@@ -42,3 +42,26 @@ p {
 a {
     color:blanchedalmond
 }
+
+h2 {
+    margin: 20px 20px 0 20px;
+    color: #1e3a8a;
+}
+
+.lista {
+    margin: 10px 20px 20px 45px;
+}
+
+.lista li {
+    margin-bottom: 8px;
+}
+
+.exemplo {
+    background-color: #e0e7ff;
+    border-left: 5px solid #1e3a8a;
+    margin: 20px;
+}
+
+.exemplo p {
+    margin: 15px;
+}
